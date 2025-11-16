@@ -13,3 +13,10 @@ I implemented this on a 1966 bronco that used an old ford starter solenoid which
 
 <img width="707" height="1255" alt="image" src="https://github.com/user-attachments/assets/dfddd5f9-af19-44f8-b636-2beeee58c600" />
 
+
+**Video Example** 
+
+https://github.com/user-attachments/assets/500f58ea-a624-4049-8b36-a9ed922969f0
+
+
+
