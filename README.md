@@ -7,6 +7,7 @@ In order to get this working on your own you need to take a photo of yourself in
 
 
 **Wiring**
+
 I implemented this on a 1966 bronco that used an old ford starter solenoid which made the wiring and hardware setup very easy. This is a very basic sketch of what it was wired up like.
 
 
