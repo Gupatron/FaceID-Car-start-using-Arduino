@@ -1,0 +1,1 @@
+The FaceID remote start python file is a program that uses OpenCV to determine if the face being shown to the webcam is the users face or not. If it is then it sends a signal to an arduino over serial communication to turn on a relay for 1.5 seconds. 
